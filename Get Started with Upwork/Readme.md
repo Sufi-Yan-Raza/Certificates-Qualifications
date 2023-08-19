@@ -1,1 +1,2 @@
-<img align="center" src="Get Started with Upwork.pdf" alt="Get Started with Upwork">
+<img align="center" src="Get Started with Upwork.png" alt="Get Started with Upwork">
+[Click to Verify...! 👈](https://coursera.org/verify/ECKGKUUFLV8K)
